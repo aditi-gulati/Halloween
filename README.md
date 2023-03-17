@@ -1,4 +1,4 @@
-# TRICK OR TRICK
+# TRICK OR TREAT GAME
 
 ### Game rules
 - Avoid pumpkins 🎃, ghosts 👻 and webs 🕸️ 
